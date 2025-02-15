@@ -1,7 +1,7 @@
 
 # Building and Deploying a Dockerized Python Application with GitLab CI/CD on AWS EC2
 
-![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/pipelinegitlab1.png?raw=true)
+![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/Images/pipelinegitlab1.png?raw=true)
 
 ## Step 1: Set Up the Environment
 
@@ -243,7 +243,7 @@ deploy:
 ```
 
 ---
-![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/pythondemoapp1.png?raw=true)
+![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/Images/pythondemoapp1.png?raw=true)
 ## Conclusion
 
 We successfully set up a GitLab CI/CD pipeline for deploying a Dockerized Python application to AWS EC2. We faced several issues along the way, such as Docker permissions, SSH key configuration, Docker login warnings, and security group misconfigurations. By addressing each issue with the solutions above, we managed to deploy the application successfully and automate the process using GitLab CI/CD.
